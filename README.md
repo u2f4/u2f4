@@ -1,1 +1,1 @@
-![Discord Profile](https://api-nyra.squareweb.app/github/invejei/card)
+![Discord Profile](https://api-nyra.squareweb.app/u2f4/cardjs)
